@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "49e0e1d624273655fa38b72088dff839",
-    "url": "/my-web/static/media/group@3x.49e0e1d6.png"
+    "revision": "650759843019670d6c6277aa2d3ebdcf",
+    "url": "/my-web/static/media/decoLeft@3x.65075984.png"
   },
   {
     "revision": "d14fb5d38164ad7c1f2c",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/my-web/static/media/dev.d3628c35.png"
   },
   {
-    "revision": "650759843019670d6c6277aa2d3ebdcf",
-    "url": "/my-web/static/media/decoLeft@3x.65075984.png"
+    "revision": "49e0e1d624273655fa38b72088dff839",
+    "url": "/my-web/static/media/group@3x.49e0e1d6.png"
   },
   {
     "revision": "d14fb5d38164ad7c1f2c",
