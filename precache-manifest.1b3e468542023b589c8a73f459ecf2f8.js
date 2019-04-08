@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "650759843019670d6c6277aa2d3ebdcf",
-    "url": "/my-web/static/media/decoLeft@3x.65075984.png"
+    "revision": "49e0e1d624273655fa38b72088dff839",
+    "url": "/my-web/static/media/group@3x.49e0e1d6.png"
   },
   {
-    "revision": "2d9c1bf8a7b8cfe79465",
-    "url": "/my-web/static/css/main.059c0cc3.chunk.css"
+    "revision": "4d60f3ea95a9eeb0b2a7",
+    "url": "/my-web/static/css/main.61467333.chunk.css"
   },
   {
     "revision": "f688b76d70f43d15fa5e",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/my-web/static/media/dev.d3628c35.png"
   },
   {
-    "revision": "49e0e1d624273655fa38b72088dff839",
-    "url": "/my-web/static/media/group@3x.49e0e1d6.png"
+    "revision": "650759843019670d6c6277aa2d3ebdcf",
+    "url": "/my-web/static/media/decoLeft@3x.65075984.png"
   },
   {
-    "revision": "2d9c1bf8a7b8cfe79465",
-    "url": "/my-web/static/js/main.ae3ce8f7.chunk.js"
+    "revision": "4d60f3ea95a9eeb0b2a7",
+    "url": "/my-web/static/js/main.c5cda73b.chunk.js"
   },
   {
     "revision": "54260ea224319a85c30de439dad18cb5",
@@ -40,11 +40,15 @@ self.__precacheManifest = [
     "url": "/my-web/static/media/30.013b3b1e.jpg"
   },
   {
-    "revision": "e776899753750937e28d0052b6376d8e",
-    "url": "/my-web/static/media/test.e7768997.png"
+    "revision": "c567986e1b384faa11f6e0d6f5f093e4",
+    "url": "/my-web/static/media/University-of-Mumbai.c567986e.png"
   },
   {
-    "revision": "cf7f7fca0bda4d697606456096620676",
+    "revision": "00dabf6b3e94961d1db56f4e21ad35d3",
+    "url": "/my-web/static/media/Web-design.00dabf6b.png"
+  },
+  {
+    "revision": "d8a84b9c927c9a2d8f29d89e873ade60",
     "url": "/my-web/index.html"
   }
 ];
