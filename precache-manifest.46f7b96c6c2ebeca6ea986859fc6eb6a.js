@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "650759843019670d6c6277aa2d3ebdcf",
-    "url": "/my-web/static/media/decoLeft@3x.65075984.png"
+    "revision": "49e0e1d624273655fa38b72088dff839",
+    "url": "/my-web/static/media/group@3x.49e0e1d6.png"
   },
   {
-    "revision": "3c4229cd02bf080cb36a",
-    "url": "/my-web/static/css/main.3c78808a.chunk.css"
+    "revision": "83b154b92e87561c3bce",
+    "url": "/my-web/static/css/main.01b38485.chunk.css"
   },
   {
     "revision": "f688b76d70f43d15fa5e",
@@ -20,11 +20,11 @@ self.__precacheManifest = [
     "url": "/my-web/static/media/dev.d3628c35.png"
   },
   {
-    "revision": "49e0e1d624273655fa38b72088dff839",
-    "url": "/my-web/static/media/group@3x.49e0e1d6.png"
+    "revision": "650759843019670d6c6277aa2d3ebdcf",
+    "url": "/my-web/static/media/decoLeft@3x.65075984.png"
   },
   {
-    "revision": "3c4229cd02bf080cb36a",
+    "revision": "83b154b92e87561c3bce",
     "url": "/my-web/static/js/main.398031e2.chunk.js"
   },
   {
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/my-web/static/media/Web-design.00dabf6b.png"
   },
   {
-    "revision": "b4fcc8472dd57dd64e08cf857e4f697b",
+    "revision": "9c7fa5e842dac7859b3c0cb7d81f41ec",
     "url": "/my-web/index.html"
   }
 ];
