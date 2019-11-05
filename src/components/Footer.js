@@ -23,7 +23,7 @@ class Footer extends Component {
       div className = "footer-contact" >
       <
       p > Toronto, Canada < /p> <
-      p className = "footer-contact2" > Phone: +1 647 - 233 - 3877 < /p> <a className="footer-contact2" href="mailto:revarjigar@gmail.com">Click here to MAIL me</a >
+      p className = "" > Phone: +1 647 - 233 - 3877 < /p> <a className="footer-contact2" href="mailto:revarjigar@gmail.com">Click here to MAIL me</a >
       <
       ul >
       <
@@ -33,12 +33,12 @@ class Footer extends Component {
       li > < a href = "https://github.com/revarjigar/"
       target = "_blank" > GITHUB < /a></li >
       <
-      /ul> <
-      /div> <
+      /ul> < /
+      div > <
       div className = "phone-right" / >
       <
-      /div> <
-      /div>
+      /div> < /
+      div >
     );
   }
 }
